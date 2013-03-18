@@ -1,4 +1,4 @@
-### a S3-FTPS server 
+### S3-FTPS server 
 - - -
 
 * start server
